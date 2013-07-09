@@ -1,3 +1,10 @@
+/********************************************************************* 
+ * Copyright(C) 2011-2012 LiMingkuan(11331173)  All rights reserved.
+ * LiMingkuan is a student majoring in Software Engineering,
+ * from the School of Software, 
+ * SUN YAT-SEN UNIVERSITY, GZ 510006, P. R. China
+ ********************************************************************/
+
 import static org.junit.Assert.*;
 
 import java.awt.Graphics;
